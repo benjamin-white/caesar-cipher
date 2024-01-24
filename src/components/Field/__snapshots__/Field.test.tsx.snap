@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Field renders a \`label\` and child component 1`] = `
+<div>
+  <div
+    class="field"
+  >
+    <label
+      class="field-label"
+      for="button"
+    >
+      Button label
+    </label>
+    <button
+      class="field-input"
+      id="button"
+      type="button"
+    >
+      Button
+    </button>
+  </div>
+</div>
+`;
